@@ -59,3 +59,32 @@
   padding-left: 15%;
   padding-right: 15%;
 }
+.imgcapalivro{
+  width: 50%;
+  border-radius: 8px;
+}
+.btn {
+  background-color: var(--accent-color);
+  border: 0 none;
+  color: #fff;
+  display: inline-block;
+  font-weight: 600;
+  padding: 15px 30px;
+}
+
+.member-info{
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
+}
+
+.team-member{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card{ 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
